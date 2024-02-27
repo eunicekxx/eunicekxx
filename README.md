@@ -17,11 +17,13 @@ Here are some ideas to get you started:
   
 <h1>Hi there, I'm Eunice 👋</h1>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702FF7&center=true&vCenter=true&random=false&width=435&lines=Web+Development+%26+Design+student+%F0%9F%91%BE+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702FF7&center=true&vCenter=true&random=false&width=435&lines=Web+Design+%26+Development+student+%F0%9F%91%BE+)](https://git.io/typing-svg)
   
 </div>
 
-- 📝 I’m currently working on **school assignments and projects.**
+- 👩🏻‍💻 I'm currently in the Digital Media and IT program, Web Design and Development stream at NAIT.
+- 👉🏼 Pronouns: She/Her
+- 📝 **Projects I'm working on:** school assignments and deliverables.
 
 <h3 align="left">📫 Connect with me: </h3>
 <a href="mailto:eunice.kua07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -39,3 +41,7 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge" /></a>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk4eHAxM3ZuM3Qxa2txeXdpaW0wZGhldnJhMDVsbGNkaGZpajBuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
+</div>
