@@ -21,9 +21,8 @@ Here are some ideas to get you started:
   
 </div>
 
-- 👩🏻‍💻 I'm currently in the Digital Media and IT program, Web Design and Development stream at NAIT.
+- 👩🏻‍💻 I'm a recent grad of NAIT's Digital Media and IT program, specializing in Web Design & Development.
 - 👉🏼 Pronouns: She/Her
-- 📝 **Projects I'm working on:** school assignments and deliverables.
 
 <h3 align="left">📫 Connect with me: </h3>
 <a href="mailto:eunice.kua07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
