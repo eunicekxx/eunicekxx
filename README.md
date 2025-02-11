@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 <h1>Hi there, I'm Eunice 👋</h1>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702FF7&center=true&vCenter=true&random=false&width=435&lines=Web+Design+%26+Development+student+%F0%9F%91%BE+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702FF7&center=true&vCenter=true&random=false&width=435&lines=Web+Design+%26+Development+%F0%9F%91%BE+)](https://git.io/typing-svg)
   
 </div>
 
